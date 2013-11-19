@@ -10,9 +10,9 @@ Ideas de Proyectos
 ==================
 - Obtener el acceso a las maquinas con linux de la fing
 - Generación de tutoriales sobre:
-+ Primeros pasos en Linux
-+ Primeros pasos en GitHub
+  - Primeros pasos en Linux
+  - Primeros pasos en GitHub
 - Construir listado de enlaces de utilidad
 - Desarrollo de aplicaciones:
-+ Aplicacion Movil para saber que salon hay libre de la facultad a determinada hora
-+ Menu de la cantina
+  - Aplicacion Movil para saber que salon hay libre de la facultad a determinada hora
+  - Menu de la cantina
