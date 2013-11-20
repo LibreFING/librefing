@@ -2,6 +2,7 @@
 
 - Presentación de los Integrantes
 - Definir Objetivos del Grupo
+- Lista de Proyectos
 - Repartir Roles:
   - Administración del grupo de Facebook
   - Moderación del Foro Google Groups
