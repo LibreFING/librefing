@@ -8,6 +8,7 @@ Ideas para el Grupo
 
 Ideas de Proyectos
 ==================
+- Impulsar la movida del Software Libre
 - Obtener el acceso a las maquinas con linux de la fing (Salones 114 y 201)
 - Generación de tutoriales sobre:
   - Primeros pasos en Linux
@@ -17,4 +18,4 @@ Ideas de Proyectos
   - Aplicacion Movil para saber que salon hay libre de la facultad a determinada hora
   - Menu de la cantina
 - Generar un Repo con programas que puedan servir para las carreras (ej, compiladores para commputación, geogebra como auxliar para visualizar algunos problemas, etc...)
-- Impulsar la movida del Software Libre
+
