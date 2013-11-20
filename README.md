@@ -1,4 +1,4 @@
 LibreFING
 =========
 
-Grupo Software Libre y ++
+Grupo de Software Libre
