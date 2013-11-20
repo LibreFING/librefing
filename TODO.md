@@ -1,7 +1,7 @@
 Ideas para el Grupo
 ===================
 
-- Crear un Canal IRC en FreeNode
+- Planificar y llevar a cabo reuniones
 - Publicar grupo en otros grupos de facebook para que se una mas gente
 - Empezar a diseñar y agregar material a la página web del grupo
 - Trabajar en Conjunto con GNU/CEI
