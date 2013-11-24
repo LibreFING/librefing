@@ -11,6 +11,7 @@ Ideas de Proyectos
 ==================
 - Impulsar la movida del Software Libre
 - Obtener el acceso a las maquinas con linux de la fing (Salones 114 y 201)
+  - Existe gente dentro del URI que puede apoyar la iniciativa, hablar con ellos y presentarles la idea una vez esté mas definida y pulida
 - Generación de tutoriales sobre:
   - Primeros pasos en Linux
   - Primeros pasos en GitHub
