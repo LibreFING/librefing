@@ -6,12 +6,11 @@ Las otras maquinas son las Salas LINUX que van en los salones 114 (primer piso) 
 
 ###Entonces:###
 ----
-Lista de tareas
-1. Testeo de maquinas Windows `En desarrollo`
-2. Testeo de maquinas Linux `En desarrollo`
-3. Pruebas con Live Cd de distintas distribuciones `En desarrollo`
-4. Instalacion de distribuciones linux en Pendrives `En desarrollo`
-5. Mantenimiento de este archivo `En proceso`
+	- Lista de tareas
+	1. Testeo de maquinas Windows `En desarrollo`
+	2. Testeo de maquinas Linux `En desarrollo`
+	3. Instalacion de distribuciones linux en pendrives `En desarrollo`
+
 		
 
 	
