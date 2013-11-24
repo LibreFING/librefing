@@ -17,7 +17,7 @@ Ideas de Proyectos
   - Primeros pasos en GitHub
 - Construir listado de enlaces de utilidad
 - Desarrollo de aplicaciones:
-  - Aplicacion Movil para saber que salon hay libre de la facultad a determinada hora
-  - Menu de la cantina
-- Generar un Repo con programas que puedan servir para las carreras (ej, compiladores para commputación, geogebra como auxliar para visualizar algunos problemas, etc...)
+  - Aplicacion Movil para saber que salon hay libre de la facultad a determinada hora `repo activo`
+  - Menu de la cantina `repo creado`
+- Generar un Repo con programas que puedan servir para las carreras (ej, compiladores para computación, geogebra como auxliar para visualizar algunos problemas, etc...)
 
