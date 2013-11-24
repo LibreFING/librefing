@@ -1,10 +1,11 @@
 Ideas para el Grupo
 ===================
 
-- Planificar y llevar a cabo reuniones
-- Publicar grupo en otros grupos de facebook para que se una mas gente
+- Planificar y llevar a cabo reuniones `1era planificada`
+- Publicitar el grupo y comentarlo con otras personan que puedan aportar e interesarse por el proyecto
 - Empezar a diseñar y agregar material a la página web del grupo
 - Trabajar en Conjunto con GNU/CEI
+- Diseñar Logo para el Grupo
 
 Ideas de Proyectos
 ==================
