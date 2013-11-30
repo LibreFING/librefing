@@ -1,6 +1,3 @@
-Punteo de lo hablado en la reunion
-===================================
-
 - Desarrollo en HTML
 - Comunicacion:
   - IRC
@@ -21,4 +18,5 @@ Punteo de lo hablado en la reunion
   - Respeto mutuo
   - Motivacion
   - Teamworking
+  - Guias de publicacion
 
