@@ -7,10 +7,12 @@
   - Porque?
   - Como?
 
-- Normas del grupo:
+- Funcionamiento del grupo:
+  - Primero el estudio, despues librefing
   - Jerarquia horizonal (?)
   - Respeto, empatía y tolerancia
   - Trabajo en equipo y Division de tareas
+  - Comunicación Fluida
 
 - Lista de Proyectos:
   - Desarrollo Movil
@@ -23,8 +25,10 @@
   - GitHub
   - Webpage
 
-- Desarrollar y Diseñadores la Web del grupo
-- Establecer vias de comunicación:
+- Diseño del logo del grupo
+- Desarrollo y Diseño la Web del grupo
+
+- Establecer vias de comunicación interna y externa:
   - IRC
   - Foro
   - Facebook
