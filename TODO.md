@@ -23,3 +23,7 @@ o a traves de un compilado de distribuciones, con opcion de elegir cual usar `en
   - Menu de la cantina `repo creado`
 - Generar un Repo con programas que puedan servir para las carreras (ej, compiladores para computación, geogebra como auxliar para visualizar algunos problemas, etc...)
 
+Wiki
+====
+- Tutorial Inicio/Primeros pasos GitHub
+- Tutorial Primeros Pasos en el Grupo
