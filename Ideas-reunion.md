@@ -1,3 +1,6 @@
+Punteo de lo hablado en la reunion
+===================================
+
 - Desarrollo en HTML
 - Comunicacion:
   - IRC
