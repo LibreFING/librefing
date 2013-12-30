@@ -1,7 +1,7 @@
 Ideas para el Grupo
 ===================
 
-- Planificar y llevar a cabo reuniones `1era planificada`
+- Planificar y llevar a cabo reuniones `1era realizada`
 - Publicitar el grupo y comentarlo con otras personan que puedan aportar e interesarse por el proyecto
 - Empezar a diseñar y agregar material a la página web del grupo
 - Trabajar en Conjunto con GNU/CEI
